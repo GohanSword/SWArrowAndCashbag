@@ -1,0 +1,4 @@
+name: Detectionarrow
+version: ${project.version}
+main: fr.gohansword.detectionarrow.Detectionarrow
+api-version: 1.16
